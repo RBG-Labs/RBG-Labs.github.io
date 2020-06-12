@@ -302,11 +302,3 @@ h2 {
 	}
 }
 
-
-/*EXTRA LARGE DEVICES*/
-@media (min-width:1200px){
-header {
-	margin-top: 60px;
-}
-
-}
